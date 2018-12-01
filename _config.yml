@@ -12,3 +12,5 @@ data-ad-slot: 6015597877
 paginate: 4
 paginate_path: "/blog/page:num/"
 disqus_shortname: https-chipprogrammers-github-io-pimate
+sass:
+  style: compact # possible values: nested expanded compact compressed
