@@ -3,11 +3,4 @@ title: false
 styles: true
 ---
 
-@charset "utf-8";
-@import "/utilities/_all",
-        "/base/_all",
-        "/elements/_all",
-        "/components/_all",
-        "/grid/_all",
-        "sass/layout/_all",
-;
+@import "style";
