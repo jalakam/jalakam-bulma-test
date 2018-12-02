@@ -14,7 +14,7 @@
     <div class="navbar-start">
       {% for x in site.data.navbar %}
       <a class="navbar-item" href="{{ x.link }}">
-        {{ x.icon }}{{ x.menu }}
+        <i class="{{ x.icon }}"></i>{{ x.menu }}
       </a>
       {% endfor %}
       </div>
