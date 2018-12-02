@@ -1,0 +1,23 @@
+- menu: പൂമുഖം
+  link: http://arunodayam.github.io
+  icon: fas fa-home
+ 
+- menu: ബ്ലോഗ്
+  link: https://arunodayam.github.io/blog
+  icon: fas fa-pencil-alt
+
+- menu: ഡോക്സ്
+  link: https://chipprogrammers.github.io/Documentation
+  icon: fas fa-file
+  
+- menu: ഗിറ്റ്ഹബ്
+  link: http://github.com/chipprogrammers
+  icon: fab fa-github
+  
+- menu: എന്നെ കുറിച്ച്
+  link: http://chipprogrammers.github.io/online-cv
+  icon: fa fa-paper-plane
+
+- menu: സൈറ്റ്മാപ്പ്
+  link: https://arunodayam.github.io/sitemap.xml
+  icon: fas fa-rss
